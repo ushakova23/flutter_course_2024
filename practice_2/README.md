@@ -1,3 +1,4 @@
 ### Пример работы
 
 
+![](./demonstration.gif)
